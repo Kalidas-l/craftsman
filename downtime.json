@@ -1,4 +1,4 @@
 {
-downtimeFlag = true
-text = "maintanance work scheduled from 02.03.22 to 03.03.22"
+downtimeFlag : true
+text : "maintanance work scheduled from 02.03.22 to 03.03.22"
 }
